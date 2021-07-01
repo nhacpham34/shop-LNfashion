@@ -1,0 +1,125 @@
+{
+    "products": [
+        {
+            "id":"1",
+            "category": "ao-nam",
+            "name":"ÁO PHÔNG NGƯỜI LỚN UNISEX HÌNH IN MICKEY",
+            "image": "https://media.canifa.com/catalog/product/5/t/5ts21s003-sk010-4.jpg",
+            "description": "Áo phông chất liệu cotton USA Dáng unisex, cổ tròn, tay cộc. Số lượng giới hạn",
+            "price": "299.000",
+            "quantity": "123"
+
+        },
+        {
+            "id":"2",
+            "category": "ao-nam",
+            "name":"ÁO PHÔNG NAM COTTON USA IN HÌNH",
+            "image": "https://media.canifa.com/catalog/product/8/t/8ts21s014-sb060-m-1.jpg",
+            "description": "Áo phông nam chất liệu cotton USA, có hình in trước ngực. Dáng regular, cổ tròn, tay cộc",
+            "price": "249.000",
+            "quantity": "103"
+
+        },
+        {
+            "id":"3",
+            "category": "ao-nam",
+            "name":"ÁO KHOÁC CHỐNG NẮNG NAM CÓ MŨ",
+            "image": "https://media.canifa.com/catalog/product/8/o/8ot21s001-sa046-1-a.jpg",
+            "description": "Áo khoác chất liệu lacoste polyester pha, antiUV. Dáng regular, có mũ, tay dài.",
+            "price": "399.000",
+            "quantity": "1233"
+
+        },
+        {
+            "id":"4",
+            "category": "ao-nam",
+            "name":"ÁO POLO NAM BỀ MẶT KIỂU",
+            "image": "https://media.canifa.com/catalog/product/8/t/8tp21s009-sb878-l-1.jpg",
+            "description": "Áo polo nam chất liệu lacoste cotton pha. Dáng slim fit, cổ bẻ, tay cộc",
+            "price": "499.000",
+            "quantity": "2123"
+
+        },
+        {
+            "id":"5",
+            "category": "ao-nam",
+            "name":"ÁO PHÔNG NGƯỜI LỚN UNISEX HÌNH IN MICKEY",
+            "image": "https://media.canifa.com/catalog/product/5/t/5ts21s003-sk010-4.jpg",
+            "description": "Áo phông chất liệu cotton USA Dáng unisex, cổ tròn, tay cộc. Số lượng giới hạn",
+            "price": "299.000",
+            "quantity": "123"
+
+        },
+        {
+            "id":"6",
+            "category": "ao-nam",
+            "name":"ÁO PHÔNG NAM COTTON USA IN HÌNH",
+            "image": "https://media.canifa.com/catalog/product/8/t/8ts21s014-sb060-m-1.jpg",
+            "description": "Áo phông nam chất liệu cotton USA, có hình in trước ngực. Dáng regular, cổ tròn, tay cộc",
+            "price": "249.000",
+            "quantity": "103"
+
+        },
+        {
+            "id":"7",
+            "category": "ao-nam",
+            "name":"ÁO KHOÁC CHỐNG NẮNG NAM CÓ MŨ",
+            "image": "https://media.canifa.com/catalog/product/8/o/8ot21s001-sa046-1-a.jpg",
+            "description": "Áo khoác chất liệu lacoste polyester pha, antiUV. Dáng regular, có mũ, tay dài.",
+            "price": "399.000",
+            "quantity": "1233"
+
+        },
+        {
+            "id":"8",
+            "category": "ao-nam",
+            "name":"ÁO POLO NAM BỀ MẶT KIỂU",
+            "image": "https://media.canifa.com/catalog/product/8/t/8tp21s009-sb878-l-1.jpg",
+            "description": "Áo polo nam chất liệu lacoste cotton pha. Dáng slim fit, cổ bẻ, tay cộc",
+            "price": "499.000",
+            "quantity": "2123"
+
+        },
+        {
+            "id":"9",
+            "category": "ao-nam",
+            "name":"ÁO PHÔNG NGƯỜI LỚN UNISEX HÌNH IN MICKEY",
+            "image": "https://media.canifa.com/catalog/product/5/t/5ts21s003-sk010-4.jpg",
+            "description": "Áo phông chất liệu cotton USA Dáng unisex, cổ tròn, tay cộc. Số lượng giới hạn",
+            "price": "299.000",
+            "quantity": "123"
+
+        },
+        {
+            "id":"10",
+            "category": "ao-nam",
+            "name":"ÁO PHÔNG NAM COTTON USA IN HÌNH",
+            "image": "https://media.canifa.com/catalog/product/8/t/8ts21s014-sb060-m-1.jpg",
+            "description": "Áo phông nam chất liệu cotton USA, có hình in trước ngực. Dáng regular, cổ tròn, tay cộc",
+            "price": "249.000",
+            "quantity": "103"
+
+        },
+        {
+            "id":"11",
+            "category": "ao-nam",
+            "name":"ÁO KHOÁC CHỐNG NẮNG NAM CÓ MŨ",
+            "image": "https://media.canifa.com/catalog/product/8/o/8ot21s001-sa046-1-a.jpg",
+            "description": "Áo khoác chất liệu lacoste polyester pha, antiUV. Dáng regular, có mũ, tay dài.",
+            "price": "399.000",
+            "quantity": "1233"
+
+        },
+        {
+            "id":"12",
+            "category": "ao-nam",
+            "name":"ÁO POLO NAM BỀ MẶT KIỂU",
+            "image": "https://media.canifa.com/catalog/product/8/t/8tp21s009-sb878-l-1.jpg",
+            "description": "Áo polo nam chất liệu lacoste cotton pha. Dáng slim fit, cổ bẻ, tay cộc",
+            "price": "499.000",
+            "quantity": "2123"
+
+        }
+        
+    ]
+}

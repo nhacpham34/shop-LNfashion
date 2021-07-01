@@ -1,0 +1,136 @@
+/* Mobile & tablet */
+@media (max-width: 1023px) {
+    .hide-on-mb-tablet {
+        display: none;
+    }
+
+    .header {
+        height: 72px;
+        position: fixed;
+        z-index: 99999;
+        top: 0;
+        left: 0;
+        right: 0;
+    }
+
+    .app__container {
+        margin-top: 118px;
+    }
+
+    .header__cart-list {
+        position: fixed;
+        top: 72px;
+        left: 0;
+        right: 0;
+        z-index: 1;
+        width: 100%;
+    }
+
+    .header__cart-list::before {
+        display: none;
+    }
+
+    .sort-bar {
+        display: flex;
+    }
+
+    .app__container {
+        padding-top: 8px;
+    }
+
+    .mobile-category {
+        display: block;
+    }
+}
+
+/* Tablet */
+@media (max-width:1023px) and (min-width: 740px){
+    .hide-on-tablet {
+        display: none;
+    }
+    
+    .header__cart {
+        width: 72px;
+        text-align: right;
+    }
+}
+
+/* Mobile */
+@media (max-width:739px){
+    .hide-on-mb {
+        display:none;
+    }
+    .header__cart,
+    .header__logo {
+        width: unset;
+    }
+
+    .header__cart {
+        padding: 0 20px
+    }
+
+
+    .footer__heading{
+        margin-top: 32px;
+        text-align:center;
+    }
+
+    .footer-list {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .header__mobile-search {
+        display: block;
+    }
+
+    .header-search {
+        justify-content: space-between;
+    }
+
+    .header__search{
+        position:fixed;
+        padding: 6px 16px 0 0;
+        top: 72px;
+        left:0;
+        width: 100%;
+        animation: mobileSearchSideIn linear 0.2s;
+        display:none;
+    }
+
+    .pagination-item {
+        margin: 0px;
+    }
+    
+    .pagination-item__link{
+        font-size: 17px;
+        min-width: 36px;
+        height: 28px;
+    }
+
+    .header__logo-img{
+        width: 110px;
+    }
+
+
+    @keyframes mobileSearchSideIn {
+        from {
+            opacity: 0;
+            top: 70px;
+        }
+        to {
+            opacity: 1;
+            top: 72px;
+        }
+    }
+
+    .header__search-history{
+        position: fixed;
+        z-index: 1;
+        top: 118px;
+        left: 0;
+        width: 100%;
+    }
+}
+
